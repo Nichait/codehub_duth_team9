@@ -1,0 +1,31 @@
+{
+    "kind": "web",
+    "etag": "\"a6006a62-0000-0200-0000-6727dfcf0000\"",
+    "id": "/subscriptions/dff0e8d4-72a5-4dd7-8177-9afe9f297655/resourceGroups/duthcodehub2024team9/providers/microsoft.insights/components/duthcodehub2024team9functionapp",
+    "name": "duthcodehub2024team9functionapp",
+    "type": "microsoft.insights/components",
+    "location": "northeurope",
+    "tags": {
+        "MutliSoftware": "Production"
+    },
+    "properties": {
+        "ApplicationId": "duthcodehub2024team9functionapp",
+        "AppId": "ca7cd92b-04da-4253-8ed7-33849c4a84cf",
+        "Application_Type": "web",
+        "Flow_Type": "Redfield",
+        "Request_Source": "IbizaWebAppExtensionCreate",
+        "InstrumentationKey": "a70265f5-826d-477e-8e89-b75909bfbb25",
+        "ConnectionString": "InstrumentationKey=a70265f5-826d-477e-8e89-b75909bfbb25;IngestionEndpoint=https://northeurope-2.in.applicationinsights.azure.com/;LiveEndpoint=https://northeurope.livediagnostics.monitor.azure.com/;ApplicationId=ca7cd92b-04da-4253-8ed7-33849c4a84cf",
+        "Name": "duthcodehub2024team9functionapp",
+        "CreationDate": "2024-11-03T20:40:47.3616709+00:00",
+        "TenantId": "dff0e8d4-72a5-4dd7-8177-9afe9f297655",
+        "provisioningState": "Succeeded",
+        "SamplingPercentage": null,
+        "RetentionInDays": 90,
+        "WorkspaceResourceId": "/subscriptions/dff0e8d4-72a5-4dd7-8177-9afe9f297655/resourceGroups/DefaultResourceGroup-NEU/providers/Microsoft.OperationalInsights/workspaces/DefaultWorkspace-dff0e8d4-72a5-4dd7-8177-9afe9f297655-NEU",
+        "IngestionMode": "LogAnalytics",
+        "publicNetworkAccessForIngestion": "Enabled",
+        "publicNetworkAccessForQuery": "Enabled",
+        "Ver": "v2"
+    }
+}

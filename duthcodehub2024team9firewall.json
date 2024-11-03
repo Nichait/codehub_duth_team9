@@ -1,0 +1,47 @@
+{
+    "name": "duthcodehub2024team9firewall",
+    "id": "/subscriptions/dff0e8d4-72a5-4dd7-8177-9afe9f297655/resourceGroups/duthcodehub2024team9/providers/Microsoft.Network/azureFirewalls/duthcodehub2024team9firewall",
+    "etag": "W/\"14244524-9245-4f0e-8ac0-b449eb6e5716\"",
+    "type": "Microsoft.Network/azureFirewalls",
+    "location": "northeurope",
+    "tags": {
+        "MutliSoftware": "Production"
+    },
+    "zones": [
+        "1"
+    ],
+    "properties": {
+        "provisioningState": "Succeeded",
+        "sku": {
+            "name": "AZFW_VNet",
+            "tier": "Premium"
+        },
+        "threatIntelMode": "Alert",
+        "additionalProperties": {},
+        "ipConfigurations": [
+            {
+                "name": "165.64.35.1",
+                "id": "/subscriptions/dff0e8d4-72a5-4dd7-8177-9afe9f297655/resourceGroups/duthcodehub2024team9/providers/Microsoft.Network/azureFirewalls/duthcodehub2024team9firewall/azureFirewallIpConfigurations/165.64.35.1",
+                "etag": "W/\"14244524-9245-4f0e-8ac0-b449eb6e5716\"",
+                "type": "Microsoft.Network/azureFirewalls/azureFirewallIpConfigurations",
+                "properties": {
+                    "provisioningState": "Succeeded",
+                    "privateIPAddress": "10.0.0.4",
+                    "privateIPAllocationMethod": "Dynamic",
+                    "publicIPAddress": {
+                        "id": "/subscriptions/dff0e8d4-72a5-4dd7-8177-9afe9f297655/resourceGroups/duthcodehub2024team9/providers/Microsoft.Network/publicIPAddresses/165.64.35.1"
+                    },
+                    "subnet": {
+                        "id": "/subscriptions/dff0e8d4-72a5-4dd7-8177-9afe9f297655/resourceGroups/duthcodehub2024team9/providers/Microsoft.Network/virtualNetworks/duthcodehub2024team9vnet/subnets/AzureFirewallSubnet"
+                    }
+                }
+            }
+        ],
+        "networkRuleCollections": [],
+        "applicationRuleCollections": [],
+        "natRuleCollections": [],
+        "firewallPolicy": {
+            "id": "/subscriptions/dff0e8d4-72a5-4dd7-8177-9afe9f297655/resourceGroups/duthcodehub2024team9/providers/Microsoft.Network/firewallPolicies/duthcodehub2024team9firewallpolicy"
+        }
+    }
+}
