@@ -1,0 +1,20 @@
+{
+    "properties": {
+        "size": "0.001185417 MB",
+        "childPolicies": [],
+        "ruleGroups": [],
+        "firewalls": [
+            {
+                "id": "/subscriptions/dff0e8d4-72a5-4dd7-8177-9afe9f297655/resourceGroups/duthcodehub2024team9/providers/Microsoft.Network/azureFirewalls/duthcodehub2024team9firewall"
+            }
+        ],
+        "threatIntelMode": "Alert",
+        "provisioningState": "Succeeded"
+    },
+    "id": "/subscriptions/dff0e8d4-72a5-4dd7-8177-9afe9f297655/resourcegroups/duthcodehub2024team9/providers/Microsoft.Network/firewallPolicies/duthcodehub2024team9firewallpolicy",
+    "name": "duthcodehub2024team9firewallpolicy",
+    "type": "Microsoft.Network/FirewallPolicies",
+    "etag": "a51ef01f-a837-4825-9cc9-5bf7fba05bc2",
+    "location": "northeurope",
+    "tags": {}
+}

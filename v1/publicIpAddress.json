@@ -1,0 +1,29 @@
+{
+    "name": "165.64.35.1",
+    "id": "/subscriptions/dff0e8d4-72a5-4dd7-8177-9afe9f297655/resourceGroups/duthcodehub2024team9/providers/Microsoft.Network/publicIPAddresses/165.64.35.1",
+    "etag": "W/\"83e8ac9c-db2b-487f-918a-1ae5dd73b96d\"",
+    "location": "northeurope",
+    "tags": {
+        "MutliSoftware": "Production"
+    },
+    "zones": [
+        "1"
+    ],
+    "properties": {
+        "provisioningState": "Succeeded",
+        "resourceGuid": "2815cbe2-3cf9-49a7-90d8-e3e9b5490c43",
+        "ipAddress": "52.158.40.133",
+        "publicIPAddressVersion": "IPv4",
+        "publicIPAllocationMethod": "Static",
+        "idleTimeoutInMinutes": 4,
+        "ipTags": [],
+        "ipConfiguration": {
+            "id": "/subscriptions/dff0e8d4-72a5-4dd7-8177-9afe9f297655/resourceGroups/duthcodehub2024team9/providers/Microsoft.Network/azureFirewalls/duthcodehub2024team9firewall/azureFirewallIpConfigurations/165.64.35.1"
+        }
+    },
+    "type": "Microsoft.Network/publicIPAddresses",
+    "sku": {
+        "name": "Standard",
+        "tier": "Regional"
+    }
+}
