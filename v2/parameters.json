@@ -1,0 +1,54 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "vulnerabilityAssessments_Default_storageContainerPath": {
+            "value": null
+        },
+        "sites_team92024webapp_name": {
+            "value": null
+        },
+        "servers_team92024serverdb_name": {
+            "value": null
+        },
+        "sites_team92024functionapp_name": {
+            "value": null
+        },
+        "vaults_team92024keyvault_name": {
+            "value": null
+        },
+        "components_team92024webapp_name": {
+            "value": null
+        },
+        "publicIPAddresses_publicIP1_name": {
+            "value": null
+        },
+        "virtualNetworks_team92024vnet_name": {
+            "value": null
+        },
+        "storageAccounts_team92024stacc_name": {
+            "value": null
+        },
+        "serverfarms_ASP_team92024test_a024_name": {
+            "value": null
+        },
+        "components_team92024functionapp_name": {
+            "value": null
+        },
+        "azureFirewalls_team92024firewall_name": {
+            "value": null
+        },
+        "publicIPAddresses_managementPublicIP1_name": {
+            "value": null
+        },
+        "firewallPolicies_team92024firewallpolicy_name": {
+            "value": null
+        },
+        "actionGroups_Application_Insights_Smart_Detection_name": {
+            "value": null
+        },
+        "workspaces_DefaultWorkspace_dff0e8d4_72a5_4dd7_8177_9afe9f297655_NEU_externalid": {
+            "value": null
+        }
+    }
+}
