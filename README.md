@@ -14,11 +14,13 @@
 </p>
 
 <p>
+        <ul>
 The repository contains the following:
-        - Exported resource group containing all resources created
-        - Total Cost of Ownership file that compares the 5 year spendings between On Premises and Cloud Configuration of the solution
-        - The pricing of the solution in a pay-as-you-go configuration
-        - Draw.io diagram of the solution
-        - 2 versions of the solution: v1, which is the early solution, and v2, the end result.
+        <li>Exported resource group containing all resources created</li>
+        <li>Total Cost of Ownership file that compares the 5 year spendings between On Premises and Cloud Configuration of the solution</li>
+        <li>The pricing of the solution in a pay-as-you-go configuration</li>
+        <li>Draw.io diagram of the solution</li>
+        <li>2 versions of the solution: v1, which is the early solution, and v2, the end result</li>
+        </ul>
 </p>
 
