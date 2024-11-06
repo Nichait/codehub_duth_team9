@@ -7,7 +7,7 @@
 <p>A Cloud Infrastructure project in Microsoft Azure developed by the following group (with LinkedIn Profiles!):
         <br>
         <ul>
-        <li><a href="https://www.linkedin.com/in/nikos-chaitas-816757321/">Nick Chaitas <img src="https://camo.githubusercontent.com/b0da060b0237877908206fb134e55edc851e45dfc04e58d90cb97fcf0d14ad96/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f632f63612f4c696e6b6564496e5f6c6f676f5f696e697469616c732e706e67" width="20px;" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" style="max-width: 100%;"> </a></li>
+        <li><a href="https://www.linkedin.com/in/nikos-chaitas-816757321/">Nick Chaitas <img src="https://camo.githubusercontent.com/b0da060b0237877908206fb134e55edc851e45dfc04e58d90cb97fcf0d14ad96/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f632f63612f4c696e6b6564496e5f6c6f676f5f696e697469616c732e706e67" width="20px;" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" style="max-width: 100%; padding: 5px"> </a></li>
         <li><a href="https://www.linkedin.com/in/angelos-sismanis-a631262a6/">Angelos Sismanis</a></li>
         <li><a href="https://www.linkedin.com/in/epameinondas-tsaramparis-774989248/">Epameinondas Tsaramparis</a></li>
         <li>George Karampimperis</li>
