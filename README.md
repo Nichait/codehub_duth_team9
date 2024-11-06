@@ -9,15 +9,16 @@
         - <a href="https://www.linkedin.com/in/nikos-chaitas-816757321/">Nick Chaitas</a><br>
         - <a href="https://www.linkedin.com/in/angelos-sismanis-a631262a6/">Angelos Sismanis</a><br>
         - <a href="https://www.linkedin.com/in/epameinondas-tsaramparis-774989248/">Epameinondas Tsaramparis</a><br>
-        - George Karampimperis
-        - Chris Apostolidis
+        - George Karampimperis<br>
+        - Chris Apostolidis<br>
 </p>
 
+<p>
 The repository contains the following:
         - Exported resource group containing all resources created
         - Total Cost of Ownership file that compares the 5 year spendings between On Premises and Cloud Configuration of the solution
         - The pricing of the solution in a pay-as-you-go configuration
         - Draw.io diagram of the solution
         - 2 versions of the solution: v1, which is the early solution, and v2, the end result.
-
+</p>
 
