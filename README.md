@@ -26,3 +26,4 @@ The repository contains the following:
         </ul>
 </p>
 
+<p>A huge thanks to CodeHub, Pfizer and DUTh and their respective personnel for making this possible!</p>
